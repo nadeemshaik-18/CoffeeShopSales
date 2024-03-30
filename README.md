@@ -10,5 +10,9 @@ From the "Quantity Ordered Based on Hours" chart, it seems your coffee shop cate
 Coffee takes the crown as your top-selling category, with a whopping 30.5% share of the pie! This aligns with most coffee shop trends. Interestingly, the "% Of Size Distribution Based On Orders" chart reveals a preference for large coffees. Maybe your customers are fueling long days or simply enjoy a bigger cup. Consider offering special deals on larger sizes to further incentivize this popular choice.
 #Beyond the Numbers
 While the data paints a clear picture, it's always good to dig deeper.  Are there any specific coffee blends or pastries particularly popular on weekends?  Do weekdays attract a different customer type seeking a quicker experience?  Observing customer behavior can give you even more valuable insights.
-#Boosting the Bottom Line
-The average transaction value might be on the lower side. Upselling strategies like recommending pastries with coffee or introducing new, premium coffee options could be a good way to increase revenue. Additionally, weekday promotions or combo deals could entice customers during slower periods.
+#Boosting the Bottom Line The average transaction value might be on the lower side. 
+# Recommended Strategies:
+Upselling: Encourage customers to add pastries or other food items to their coffee orders.
+Introducing new, higher-priced menu items.
+Targeted promotions: Offer discounts or combos to attract more customers during weekdays.
+Upselling strategies like recommending pastries with coffee or introducing new, premium coffee options could be a good way to increase revenue. Additionally, weekday promotions or combo deals could entice customers during slower periods.
